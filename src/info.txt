@@ -1,4 +1,4 @@
 This is my information file
-One more change
+One change
 Second change
 Third change on my branch
