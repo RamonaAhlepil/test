@@ -2,4 +2,5 @@ My README files
 
 Eriks addition
 
-Ramona igen 
+Ramona igen
+Samma 
