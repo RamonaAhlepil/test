@@ -1,5 +1,4 @@
 This is my information file
-One more change
 Second change
 Master change
 Third change on my branch
